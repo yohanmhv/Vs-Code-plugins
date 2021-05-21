@@ -1,0 +1,9 @@
+1 - Beautify
+2 - Bracket Pair Colorizer
+3 - HTML CSS Support 
+4 - HTML Snippets
+5 - Material Icon Theme
+6 - Path Intellisense 
+7 - PHP Debug
+8 - Auto Close TAG
+9 - Auto Rename TAG
